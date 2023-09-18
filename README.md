@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Vinay-Kumar-Manchala
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning FrontEnd Tech 
-- 💞️ I’m looking to collaborate on coding methodologies, best practices
-- 📫 How to reach me manchalavinaykumar478@gmail.com
+- 👀 Interested in Coding
+- 💞️ Looking forward to collaborate on coding methodologies, best practices
+- 📫 How to reach me: manchalavinaykumar478@gmail.com, https://www.linkedin.com/in/vinay-kumar-manchala-501a5a220/
 
 <!---
 Vinay-Kumar-Manchala/Vinay-Kumar-Manchala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
