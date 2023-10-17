@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since Feb 2022<br>📚 I'm currently learning cloud technologies<br>🎯 Goals: Being proficient in backend and DevOps<br>🎲 I code for food... and also for salary.</p>
+<p align="left">✨ Creating bugs since Feb 2022<br>📚 Currently exploring new techs learning cloud technologies<br>🎯 Goals: Being proficient in backend and DevOps<br>🎲 I code for food... and also for salary.</p>
 
 ###
 
