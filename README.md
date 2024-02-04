@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<p align="left">Hello, my name is Vinay Kumar Manchala, and I am a Software Engineer at Rockwell Automation. I started working there in February 2022. I have a passion for coding, and whenever I have free time, I enjoy working on personal projects.</p>
+<p align="left">My name is Vinay Kumar Manchala, a Software Engineer at Rockwell Automation. I started working there in February 2022. I have a passion for coding, and whenever I have free time, I enjoy working on personal projects.</p>
 
 ###
 
@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since Feb 2022<br>📚 Currently exploring new techs in cloud and devops<br>🎯 Goals: Being proficient in backend and DevOps<br>🎲 I code for food... and also for salary.</p>
+<p align="left">✨ Creating bugs since Feb 2022<br>📚 Currently exploring new techs in cloud and devops<br>🎯 Goals: Being proficient in backend and DevOps<br>🎲 I code for fun... and also for salary.</p>
 
 ###
 
